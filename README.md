@@ -3,8 +3,6 @@
 升级 is a popular Chinese trick-taking playing card game, also known as tractor, finding friends, fighting for 100 points, 80 points, etc. Rules are available
 [here](https://robertying.com/shengji/rules.html). This project is built on the online version of shengji created by Robert Ying [here](https://github.com/rbtying/shengji). Goals of this project include updating the frontend to create a more lifelike gameplay experience, and to add functionality to help beginners learn how to play the game. 
 
-This project is based 
-
 # Usage:
 
 ```
